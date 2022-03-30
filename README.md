@@ -1,4 +1,4 @@
-# 1.1 Pac Man
+# Pac Man
 
 # 1.2 
 This is the pacman assignment for MIT's MERN STACK course
